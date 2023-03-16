@@ -8,6 +8,7 @@
 
 ```javascript
 const abstractedCode = abstractCode(code);
+```
 
 `code` は抽象化するJavaScriptのコード（文字列）です。
 
